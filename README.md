@@ -226,4 +226,4 @@ done
 - [OpenWrt MR42 forum thread](https://forum.openwrt.org/t/openwrt-on-meraki-mr42/32193)
 - [clayface/openwrt-cryptid](https://github.com/clayface/openwrt-cryptid) — U-Boot & tools
 - [OpenWrt ipq806x target](https://openwrt.org/toh/start) — device images
-- [OpenWrt Custom Firmware](https://krishnendu.com/cisco-meraki-m42-wifi-router-openwrt-custom-firmware/) - intruction
+- [OpenWrt Custom Firmware](https://krishnendu.com/cisco-meraki-m42-wifi-router-openwrt-custom-firmware/) - instruction
